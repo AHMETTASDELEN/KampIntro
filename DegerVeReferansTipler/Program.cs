@@ -21,6 +21,8 @@ namespace DegerVeReferansTipler
             //sayilar1[0] 999
 
 
+            //ınt, decimal, float, double, bool = deger tip
+            //array, class, ınterface = referans tip
 
         }
     }

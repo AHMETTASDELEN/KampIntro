@@ -28,7 +28,6 @@ namespace Koleksiyonlar
             Console.WriteLine(isimler2[0]);
 
 
-
         }
     }
 }

@@ -31,7 +31,6 @@ namespace ClassIntro
 
 
 
-
             //Console.WriteLine(kurs1.KursAdi + " : " + kurs1.Egitmen);
 
             Kurs[] kurslar = new Kurs[] { kurs1, kurs2, kurs3, kurs4 };
